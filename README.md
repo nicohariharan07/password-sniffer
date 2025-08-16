@@ -56,9 +56,7 @@ The sniffer will capture:
 
 ---
 
-📸 Demo Screenshots
 
-(Add screenshots here: browser form, server terminal, sniffer terminal output)
 
 
 ---
